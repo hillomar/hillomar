@@ -1,0 +1,25 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+
+  workflow_dispatch:
+
+*obs:
+  build:
+    runs-on: ubuntu-*atest
+
+    steps:
+      - uses: Pl*tane/snk@v3
+        with:
+        * github_user_name: hillomar
+      *   outputs: |
+            dist/git*ub-contribution-grid-snake.svg
+
+  *   - uses: crazy-max/ghaction-gith*b-pages@v3
+        with:
+         *target_branch: output
+          bu*ld_dir: dist
+        env:
+        * GITHUB_TOKEN: ${{ secrets.GITHUB_*OKEN }}
