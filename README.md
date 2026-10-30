@@ -184,7 +184,7 @@ A **CGPA calculator and student companion app** built for university students in
 
 ---
 
-## `> 07 :: CONNECT`
+## `> 08 :: CONNECT`
 
 <div align="center">
 
