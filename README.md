@@ -53,7 +53,7 @@ I study how **networks, applications and cloud infrastructure** actually work, s
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="55%" valign="top">
 
 ### `[ 01 ] OFFENSIVE + DEFENSIVE SECURITY`
 Hands-on learning through **TryHackMe**.
@@ -65,7 +65,7 @@ Hands-on learning through **TryHackMe**.
 - `>` Linux and the command line
 
 </td>
-<td width="60%" valign="top">
+<td width="55%" valign="top">
 
 ### `[ 02 ] CLOUD SECURITY`
 Exploring **AWS** and how to secure it.
@@ -94,7 +94,6 @@ Exploring **AWS** and how to secure it.
 <img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=00FF9C&labelColor=000000" alt="Dart"/>
 <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=00FF9C&labelColor=000000" alt="Bash"/>
 
-
 **DEVELOPMENT**
 
 <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=00FF9C&labelColor=000000" alt="Flutter"/>
@@ -102,7 +101,6 @@ Exploring **AWS** and how to secure it.
 <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF9C&labelColor=000000" alt="Git"/>
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF9C&labelColor=000000" alt="GitHub"/>
 <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00FF9C&labelColor=000000" alt="VS Code"/>
-
 
 **SECURITY + CLOUD**
 
