@@ -53,7 +53,7 @@ I study how **networks, applications and cloud infrastructure** actually work, s
 
 <table>
 <tr>
-<td width="100%" valign="top">
+<td width="60%" valign="top">
 
 ### `[ 01 ] OFFENSIVE + DEFENSIVE SECURITY`
 Hands-on learning through **TryHackMe**.
@@ -65,7 +65,7 @@ Hands-on learning through **TryHackMe**.
 - `>` Linux and the command line
 
 </td>
-<td width="100%" valign="top">
+<td width="60%" valign="top">
 
 ### `[ 02 ] CLOUD SECURITY`
 Exploring **AWS** and how to secure it.
@@ -87,6 +87,7 @@ Exploring **AWS** and how to secure it.
 <div align="center">
 
 **LANGUAGES**
+
 <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00FF9C&labelColor=000000" alt="C"/>
 <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00FF9C&labelColor=000000" alt="C++"/>
 <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00FF9C&labelColor=000000" alt="Java"/>
@@ -95,6 +96,7 @@ Exploring **AWS** and how to secure it.
 
 
 **DEVELOPMENT**
+
 <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=00FF9C&labelColor=000000" alt="Flutter"/>
 <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=00FF9C&labelColor=000000" alt="Firebase"/>
 <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF9C&labelColor=000000" alt="Git"/>
@@ -103,6 +105,7 @@ Exploring **AWS** and how to secure it.
 
 
 **SECURITY + CLOUD**
+
 <img src="https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=00FF9C&labelColor=000000" alt="TryHackMe"/>
 <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonwebservices&logoColor=00FF9C&labelColor=000000" alt="AWS"/>
 <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF9C&labelColor=000000" alt="Linux"/>
