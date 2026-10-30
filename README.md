@@ -1,185 +1,183 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,50:003B20,100:00FF9C&text=HILLOMAR&fontColor=FFFFFF&fontSize=65&fontAlignY=45&desc=CYBERSECURITY%20%7C%20CLOUD%20%7C%20DEVELOPMENT&descSize=15&descAlignY=65&animation=fadeIn" width="100%" alt="HILLOMAR"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=260&color=0:000000,60:04120B,100:00FF41&text=HILLOMAR&fontColor=FFFFFF&fontSize=78&fontAlignY=42&stroke=00FF41&strokeWidth=2&desc=%5B%20CYBERSECURITY%20%5D%20%5B%20CLOUD%20SECURITY%20%5D%20%5B%20DEVELOPER%20%5D&descSize=17&descAlignY=66&descColor=00FF41&animation=fadeIn" width="100%" alt="HILLOMAR banner"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=00FF41&background=00000000&center=true&vCenter=true&width=720&height=40&lines=%24+whoami+%E2%86%92+hillomar;%24+nmap+--learn+cybersecurity;%24+aws+configure+--secure-by-default;%24+git+commit+-m+%22one+step+closer%22;Break+it+ethically.+Build+it+securely." alt="Terminal typing animation"/>
 
 <br/>
 
-<a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=Exploring+Cybersecurity+%26+Cloud;Learning+by+Building+Real+Projects;Breaking+Things+Ethically%2C+Securing+Them+Better;One+Commit+Closer+Every+Day" alt="Animated introduction"/>
-</a>
-
-<br/><br/>
-
-<b>CSE UNDERGRADUATE @ HSTU</b>
+<img src="https://img.shields.io/badge/CSE_UNDERGRAD-HSTU_BANGLADESH-000000?style=for-the-badge&labelColor=000000&color=00FF41" alt="CSE at HSTU"/>
+<img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-FFFFFF?style=for-the-badge&labelColor=000000&color=FFFFFF" alt="Focus: Cybersecurity"/>
+<img src="https://img.shields.io/badge/FOCUS-CLOUD_%2F_AWS-00FF41?style=for-the-badge&labelColor=000000&color=00FF41" alt="Focus: Cloud and AWS"/>
 
 <br/><br/>
 
 <a href="https://github.com/hillomar">
-<img src="https://img.shields.io/badge/GITHUB-hillomar-000000?style=for-the-badge&logo=github&logoColor=00FF9C&labelColor=000000" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GITHUB-hillomar-000000?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000&color=00FF41" alt="GitHub"/>
 </a>
-&nbsp;
 <a href="https://tryhackme.com/p/hillomar">
-<img src="https://img.shields.io/badge/TRYHACKME-hillomar-000000?style=for-the-badge&logo=tryhackme&logoColor=00FF9C&labelColor=000000" alt="TryHackMe"/>
+<img src="https://img.shields.io/badge/TRYHACKME-hillomar-000000?style=for-the-badge&logo=tryhackme&logoColor=FFFFFF&labelColor=000000&color=FFFFFF" alt="TryHackMe"/>
 </a>
 
 </div>
 
----
+<br/>
 
-## `01 // WHOAMI`
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00FF41" width="100%" alt="divider"/>
 
-I'm an undergraduate Computer Science and Engineering student at Haji Mohammad Danesh Science and Technology University (HSTU), Bangladesh.
+## `> 01 :: WHOAMI`
 
-My primary interests are **cybersecurity and cloud computing**. I'm building my technical foundation through programming, hands-on cybersecurity learning, and personal projects.
+```console
+hillomar@hstu:~$ cat profile.txt
 
-I'm particularly interested in understanding how networks, applications, and cloud infrastructure work—and how to identify vulnerabilities and make systems more secure.
+  NAME        : hillomar
+  STATUS      : CSE undergraduate @ Haji Mohammad Danesh Science & Technology University
+  LOCATION    : Bangladesh
+  PRIMARY     : Cybersecurity  |  Cloud Security (AWS)
+  ALSO        : Developer (Flutter / Dart, Java, C, C++)
+  METHOD      : Learn fundamentals -> experiment responsibly -> build real things
+  MOTTO       : Break things ethically. Secure them better.
 
-My approach is simple: learn the fundamentals, experiment responsibly, and build practical skills.
+hillomar@hstu:~$ _
+```
 
----
+I study how **networks, applications and cloud infrastructure** actually work, so I can understand where they break and how to harden them. I learn by doing: labs, small tools, and real projects, with security in mind from the first line of code.
 
-## `02 // CURRENT MISSION`
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00FF41" width="100%" alt="divider"/>
 
-<table border="1" bordercolor="#00FF9C" cellpadding="12" cellspacing="0" width="100%">
+## `> 02 :: ACTIVE MISSIONS`
+
+<table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>01 / CYBERSECURITY</h3>
+### `[ 01 ] OFFENSIVE + DEFENSIVE SECURITY`
+Hands-on learning through **TryHackMe**.
 
-Learning security fundamentals through TryHackMe.
-
-- Networking fundamentals
-- Web technologies and security
-- Ethical hacking concepts
-- Defensive security
+- `>` Networking fundamentals
+- `>` Web technologies & web app security
+- `>` Ethical hacking concepts
+- `>` Defensive security & hardening
+- `>` Linux and the command line
 
 </td>
 <td width="50%" valign="top">
 
-<h3>02 / CLOUD SECURITY</h3>
+### `[ 02 ] CLOUD SECURITY`
+Exploring **AWS** and how to secure it.
 
-Exploring cloud computing and AWS.
-
-- Cloud infrastructure
-- AWS fundamentals
-- Cloud security concepts
-- Practical experimentation
+- `>` Cloud infrastructure basics
+- `>` AWS core services
+- `>` IAM, least privilege & misconfigurations
+- `>` Cloud security concepts
+- `>` Practical experiments & labs
 
 </td>
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00FF41" width="100%" alt="divider"/>
 
-## `03 // TECH STACK`
-
-<table border="1" bordercolor="#00FF9C" cellpadding="10" cellspacing="0" width="100%">
-<tr>
-<td width="50%" valign="top">
-
-<b>PROGRAMMING</b>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=00FF9C" alt="C"/>
-<img src="https://img.shields.io/badge/C%2B%2B-000000?style=flat-square&logo=cplusplus&logoColor=00FF9C" alt="C++"/>
-<img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=00FF9C" alt="Java"/>
-<img src="https://img.shields.io/badge/Dart-000000?style=flat-square&logo=dart&logoColor=00FF9C" alt="Dart"/>
-
-</td>
-<td width="50%" valign="top">
-
-<b>TOOLS & DEVELOPMENT</b>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=00FF9C" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=00FF9C" alt="GitHub"/>
-<img src="https://img.shields.io/badge/VS_Code-000000?style=flat-square&logo=visualstudiocode&logoColor=00FF9C" alt="VS Code"/>
-<img src="https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=00FF9C" alt="Firebase"/>
-<img src="https://img.shields.io/badge/Flutter-000000?style=flat-square&logo=flutter&logoColor=00FF9C" alt="Flutter"/>
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-<b>CYBERSECURITY & CLOUD — EXPLORING</b>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/TryHackMe-000000?style=flat-square&logo=tryhackme&logoColor=00FF9C" alt="TryHackMe"/>
-<img src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonwebservices&logoColor=00FF9C" alt="AWS"/>
-<img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=00FF9C" alt="Linux"/>
-<img src="https://img.shields.io/badge/Bash-000000?style=flat-square&logo=gnubash&logoColor=00FF9C" alt="Bash"/>
-
-</td>
-</tr>
-</table>
-
----
-
-## `04 // GITHUB ANALYTICS`
+## `> 03 :: ARSENAL`
 
 <div align="center">
 
-<img width="49%" src="https://github-stats-extended.vercel.app/api?username=hillomar&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF9C&text_color=FFFFFF&icon_color=00FF9C" alt="GitHub Statistics"/>
+**LANGUAGES**
 
-<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hillomar&layout=compact&hide_border=true&bg_color=000000&title_color=00FF9C&text_color=FFFFFF" alt="Most Used Languages"/>
+<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00FF41&labelColor=000000" alt="C"/>
+<img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00FF41&labelColor=000000" alt="C++"/>
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00FF41&labelColor=000000" alt="Java"/>
+<img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=00FF41&labelColor=000000" alt="Dart"/>
+<img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=00FF41&labelColor=000000" alt="Bash"/>
 
-<br/><br/>
+**DEVELOPMENT**
 
-<img width="75%" src="https://streak-stats.demolab.com?user=hillomar&background=000000&hide_border=true&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Contribution Streak"/>
+<img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=FFFFFF&labelColor=000000" alt="Flutter"/>
+<img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=FFFFFF&labelColor=000000" alt="Firebase"/>
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FFFFFF&labelColor=000000" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000" alt="GitHub"/>
+<img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF&labelColor=000000" alt="VS Code"/>
+
+**SECURITY + CLOUD**
+
+<img src="https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=00FF41&labelColor=000000" alt="TryHackMe"/>
+<img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonwebservices&logoColor=00FF41&labelColor=000000" alt="AWS"/>
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF41&labelColor=000000" alt="Linux"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00FF41" width="100%" alt="divider"/>
 
-## `05 // LEARNING ROADMAP`
+## `> 04 :: PROJECTS`
 
-<table border="1" bordercolor="#00FF9C" cellpadding="10" cellspacing="0" width="100%">
+<table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
-<b>IN PROGRESS</b>
+### `UniGrade BD`
+A **CGPA calculator and student companion app** built for university students in Bangladesh.
 
-- Cybersecurity fundamentals
-- Networking and web security
-- Programming and problem-solving
-- Exploring cloud computing
+<img src="https://img.shields.io/badge/Flutter-000000?style=flat-square&logo=flutter&logoColor=00FF41&labelColor=000000" alt="Flutter"/>
+<img src="https://img.shields.io/badge/Dart-000000?style=flat-square&logo=dart&logoColor=00FF41&labelColor=000000" alt="Dart"/>
+<img src="https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=00FF41&labelColor=000000" alt="Firebase"/>
 
-</td>
-<td width="50%" valign="top">
-
-<b>NEXT OBJECTIVES</b>
-
-- Build security-focused projects
-- Strengthen practical networking skills
-- Explore AWS security
-- Document and share my work
+<a href="https://github.com/hillomar?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-000000?style=flat-square&logo=github&logoColor=FFFFFF&labelColor=000000&color=FFFFFF" alt="All repositories"/>
+</a>
 
 </td>
 </tr>
 </table>
 
----
+> `// next up: security-focused tools, AWS lab write-ups, and documented TryHackMe walkthroughs`
 
-## `06 // CONNECT`
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00FF41" width="100%" alt="divider"/>
+
+## `> 05 :: GITHUB TELEMETRY`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=hillomar&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF41&text_color=FFFFFF&icon_color=00FF41&ring_color=00FF41&text_bold=false" alt="GitHub stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hillomar&layout=compact&hide_border=true&bg_color=000000&title_color=00FF41&text_color=FFFFFF" alt="Top languages"/>
+
+<img width="100%" src="https://streak-stats.demolab.com?user=hillomar&background=000000&hide_border=true&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Contribution streak"/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hillomar&bg_color=000000&color=00FF41&line=00FF41&point=FFFFFF&area=true&area_color=00FF41&hide_border=true&title_color=00FF41" alt="Contribution activity graph"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00FF41" width="100%" alt="divider"/>
+
+## `> 06 :: ROADMAP`
+
+| `STATUS` | `OBJECTIVE` |
+|:--|:--|
+| `[ ACTIVE ]` | Cybersecurity fundamentals and TryHackMe learning paths |
+| `[ ACTIVE ]` | Networking and web security |
+| `[ ACTIVE ]` | Programming and problem-solving (C, C++, Java, Dart) |
+| `[ ACTIVE ]` | Exploring AWS and cloud computing |
+| `[ NEXT ]` | Build security-focused projects |
+| `[ NEXT ]` | Strengthen practical networking skills |
+| `[ NEXT ]` | Dive into AWS security (IAM, logging, misconfigurations) |
+| `[ NEXT ]` | Document and share everything I learn |
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00FF41" width="100%" alt="divider"/>
+
+## `> 07 :: CONNECT`
 
 <div align="center">
 
 <a href="https://github.com/hillomar">
-<img src="https://img.shields.io/badge/EXPLORE_MY_PROJECTS-000000?style=for-the-badge&logo=github&logoColor=00FF9C" alt="GitHub Projects"/>
+<img src="https://img.shields.io/badge/EXPLORE_MY_PROJECTS-000000?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000&color=00FF41" alt="GitHub"/>
 </a>
-
 <a href="https://tryhackme.com/p/hillomar">
-<img src="https://img.shields.io/badge/MY_CYBERSECURITY_JOURNEY-000000?style=for-the-badge&logo=tryhackme&logoColor=00FF9C" alt="TryHackMe Profile"/>
+<img src="https://img.shields.io/badge/MY_SECURITY_JOURNEY-000000?style=for-the-badge&logo=tryhackme&logoColor=FFFFFF&labelColor=000000&color=FFFFFF" alt="TryHackMe"/>
 </a>
 
 <br/><br/>
 
-<sub>LEARN. EXPLORE. BUILD. SECURE.</sub>
+`LEARN.  EXPLORE.  BUILD.  SECURE.`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,100:000000&height=100&section=footer" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:000000&height=110&section=footer" width="100%" alt="Footer"/>
 
 </div>
