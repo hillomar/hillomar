@@ -173,6 +173,10 @@ A **CGPA calculator and student companion app** built for university students in
 
 ---
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/hillomar/hillomar/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake"/>
+</div>
+
 ## `> 07 :: CONNECT`
 
 <div align="center">
