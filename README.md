@@ -138,7 +138,7 @@ A **CGPA calculator and student companion app** built for university students in
 
 <!-- NEW PROJECT GOES HERE -->
 
-> `// next up: security-focused tools, AWS lab write-ups, and documented TryHackMe walkthroughs`
+<!-- > `// next up: security-focused tools, AWS lab write-ups, and documented TryHackMe walkthroughs`-->
 
 ---
 
@@ -173,9 +173,13 @@ A **CGPA calculator and student companion app** built for university students in
 
 ---
 
+## `> 07 :: CONTRIBUTIONS`
+
 <div align="center">
 <img src="https://raw.githubusercontent.com/hillomar/hillomar/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake"/>
 </div>
+
+---
 
 ## `> 07 :: CONNECT`
 
